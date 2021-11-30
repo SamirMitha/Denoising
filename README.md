@@ -15,10 +15,9 @@ This repository contains:
 The data set used in this experiment was the [SIDD-Small Dataset](https://www.eecs.yorku.ca/~kamel/sidd/) sRGB images only.
 
 ## System Configuration
-|  **CPU** | Threadripper 3970x |
-| :---: | :---: |
-|  **GPU** | RTX 3090 |
-|  **RAM** | 32 GB |
+|  CPU | GPU | RAM |
+| :---: | :---: | :---: |
+|  Threadripper 3970x | RTX 3090 | 32 GB |
 
 ## Required VRAM for GPU Training
 |  **DnCNN** | 6 GB |

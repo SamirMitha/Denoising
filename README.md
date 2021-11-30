@@ -28,8 +28,16 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 # Results
 ## Sample Images
 **Noisiest Image**
+![Median](README_images/Picture1.jpg)
+![Wiener](README_images/Picture2.jpg)
+![DnCNN](README_images/Picture1.jpg)
+![FFDNet](README_images/Picture1.jpg)
 
 **Cleanest Image**
+![Median](README_images/Picture5.jpg)
+![Wiener](README_images/Picture6.jpg)
+![DnCNN](README_images/Picture7.jpg)
+![FFDNet](README_images/Picture8.jpg)
 
 ## Training and Computation Time
 **Computation time for tested methods. All values are in seconds. Lower is better.**
@@ -63,8 +71,10 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 
 ## NLF
 **Noisiest Image**
+![NLF](README_images/Picture9.png)
 
 **Cleanest Image**
+![NLF](README_images/Picture10.png)
 
 ## References
 [1] Tian, C., Fei, L., Zheng, W., Xu, Y., Zuo, W., & Lin, C.-W. (2020, August 6). Deep learning on image denoising: An overview. Neural Networks. Retrieved October 16, 2021, from https://www.sciencedirect.com/science/article/abs/pii/S0893608020302665. 

@@ -28,12 +28,14 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 # Results
 ## Sample Images
 **Noisiest Image**
+
 ![Median](README_images/Picture1.jpg)
 ![Wiener](README_images/Picture2.jpg)
-![DnCNN](README_images/Picture1.jpg)
-![FFDNet](README_images/Picture1.jpg)
+![DnCNN](README_images/Picture3.jpg)
+![FFDNet](README_images/Picture4.jpg)
 
 **Cleanest Image**
+
 ![Median](README_images/Picture5.jpg)
 ![Wiener](README_images/Picture6.jpg)
 ![DnCNN](README_images/Picture7.jpg)
@@ -71,9 +73,11 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 
 ## NLF
 **Noisiest Image**
+
 ![NLF](README_images/Picture9.png)
 
 **Cleanest Image**
+
 ![NLF](README_images/Picture10.png)
 
 ## References

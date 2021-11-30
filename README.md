@@ -16,6 +16,7 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 
 ## System Configuration
 |  **CPU** | Threadripper 3970x |
+| :---: | :---: |
 |  **GPU** | RTX 3090 |
 |  **RAM** | 32 GB |
 

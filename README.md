@@ -20,8 +20,10 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 |  Threadripper 3970x | RTX 3090 | 32 GB |
 
 ## Required VRAM for GPU Training
-|  **DnCNN** | 6 GB |
-|  **FFDNet** | 3 GB |
+|  Network | VRAM |
+| :---: | :---: |
+|  DnCNN | 6 GB |
+|  FFDNet | 3 GB |
 
 # Results
 ## Sample Images

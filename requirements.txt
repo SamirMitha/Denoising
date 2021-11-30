@@ -1,0 +1,7 @@
+numpy
+pandas
+skimage
+matplotlib
+scipy
+tensorflow
+pickle

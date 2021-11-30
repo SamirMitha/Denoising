@@ -34,7 +34,7 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 ## Training and Computation Time
 **Computation time for tested methods. All values are in seconds. Lower is better.**
 
-|  - | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
+|  Metric | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
 | :---: | :---: | :---: | :---: | :---: |
 |  **Training Time** | **0** | **0** | 14103.95 | 19902.12 |
 |  **Evaluation Time** | 4612.02 | 2756.66 | **1140.10** | 1498.53 |
@@ -44,7 +44,7 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 ## PSNR
 **Peak-signal-to-noise-ratio for tested methods. All values are in dB. Higher is better.**
 
-|  - | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
+|  Metric | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
 | :---: | :---: | :---: | :---: | :---: |
 |  **Average PSNR** | 33.19 | 32.69 | **35.33** | 34.71 |
 |  **PSNR Noisiest Image** | 21.57 | 21.60 | 26.79 | **29.85** |
@@ -54,7 +54,7 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 ## SSIM
 **Structural Similarity Index for tested methods. All values are a ratio between 0 and 1. Higher is better.**
 
-|  - | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
+|  Metric | **Median Filtering** | **Wiener Filtering** | **DnCNN** | **FFDNet** |
 | :---: | :---: | :---: | :---: | :---: |
 |  **Average SSIM** | 0.8952 | 0.8919 | 0.9328 | **0.9442** |
 |  **SSIM Noisiest Image** | 0.5493 | 0.5710 | 0.7285 | **0.8848** |

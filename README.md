@@ -29,12 +29,16 @@ The data set used in this experiment was the [SIDD-Small Dataset](https://www.ee
 ## Sample Images
 **Noisiest Image**
 
+Top left: Median, Top right: Wiener, Bottom Left: DnCNN, Bottom Right: FFDNet
+
 ![Median](README_images/Picture1.jpg)
 ![Wiener](README_images/Picture2.jpg)
 ![DnCNN](README_images/Picture3.jpg)
 ![FFDNet](README_images/Picture4.jpg)
 
 **Cleanest Image**
+
+Top left: Median, Top right: Wiener, Bottom Left: DnCNN, Bottom Right: FFDNet
 
 ![Median](README_images/Picture5.jpg)
 ![Wiener](README_images/Picture6.jpg)

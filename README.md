@@ -100,3 +100,6 @@ Top left: Median, Top right: Wiener, Bottom Left: DnCNN, Bottom Right: FFDNet
 [7] Team, T. A. I. (2021, January 23). Image de-noising using Deep Learning. Towards AI - The World's Leading AI and Technology Publication. Retrieved October 30, 2021, from https://towardsai.net/p/deep-learning/image-de-noising-using-deep-learning. 
 
 [8] Veldhuizen, T. (1998, January 16). The Wiener Filter. University of Edinburgh Computer Vision. Retrieved November 30, 2021, from https://homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/VELDHUIZEN/node15.html. 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

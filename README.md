@@ -85,10 +85,7 @@ Top left: Median, Top right: Wiener, Bottom Left: DnCNN, Bottom Right: FFDNet
 ![NLF](README_images/Picture10.png)
 
 ## Pretrained Models
-Pretrained models for DnCNN and FFDNet can be found here: 
-
-## Extensive Results
-Extensive results can be found here for the SIDD dataset: 
+Pretrained models for DnCNN and FFDNet can be found here: https://drive.google.com/drive/folders/1IDIrU73DObXMDK_1oStTjv1V2Jn-mRbS?usp=sharing
 
 ## References
 [1] Tian, C., Fei, L., Zheng, W., Xu, Y., Zuo, W., & Lin, C.-W. (2020, August 6). Deep learning on image denoising: An overview. Neural Networks. Retrieved October 16, 2021, from https://www.sciencedirect.com/science/article/abs/pii/S0893608020302665. 

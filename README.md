@@ -1,3 +1,5 @@
+EE8103 Course Project
+
 # Denoising
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SamirMitha/Denoising) 

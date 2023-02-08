@@ -1,4 +1,4 @@
-EE8103 Course Project
+EE 8103 Course Project
 
 # Denoising
 
